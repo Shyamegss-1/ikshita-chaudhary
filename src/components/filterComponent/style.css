@@ -1,0 +1,116 @@
+.accordion {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  width: 80%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.6px;
+  margin-bottom: 15px;
+  position: relative;
+  cursor: pointer;
+  text-transform: uppercase;
+}
+
+.label {
+  background-color: transparent;
+  color: #000;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 5px;
+  position: relative;
+}
+
+.label::before {
+  content: '+';
+  position: absolute;
+  font-size: 17px;
+
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.accordion .content {
+  font-size: 14px;
+  overflow: hidden;
+  overflow-y: auto;
+  height: 0;
+  position: relative;
+  border-bottom: 1px solid #cfcfcf;
+}
+
+.content::-webkit-scrollbar {
+  display: none;
+}
+
+.box.active .content {
+  height: auto;
+  padding: 8px 2px;
+}
+
+.box.active .label::before {
+  content: '-';
+  font-size: 17px;
+}
+
+.filters {
+  float: left;
+  width: 100%;
+  display: none;
+}
+
+.filters .filter-content {
+  float: left;
+  width: 100%;
+}
+
+.filters .filter-content .highlight-check {
+  display: none;
+}
+
+.filters .filter-content .check-box {
+  float: left;
+  width: 11px;
+  height: 11px;
+  position: relative;
+  border: 1px solid #ccc;
+  margin: 5px;
+}
+
+.filters .filter-content .text {
+  float: left;
+  width: calc(100% - 21px);
+  font-family: 'Quicksand', sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.8;
+  color: #000;
+  letter-spacing: 0.5px;
+}
+
+.filters .filter-content .highlight-check:checked~.check-box {
+  background-color: #000;
+  border: 1px solid #000;
+}
+
+.ant-slider-track {
+  background-color: #000000;
+}
+
+.ant-slider-rail,
+.ant-slider-track {
+  height: 3px;
+}
+
+.ant-slider-handle {
+  background-color: #fff;
+  border: 1px solid #cdcdcd;
+}
+
+@media only screen and (max-width: 768px) {
+  .accordion {
+    width: 88%;
+  }
+}

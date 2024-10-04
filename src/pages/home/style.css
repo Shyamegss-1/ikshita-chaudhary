@@ -1,0 +1,449 @@
+.home-container-main img {
+  width: 100%;
+}
+
+.product-categorie .main-container {
+  cursor: pointer;
+}
+
+.product-categorie {
+  margin-top: 60px;
+}
+
+.product-categorie .main-container {
+  position: relative;
+}
+
+.product-categorie .main-container .content .title {
+  background-color: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+  width: 280px;
+  text-align: center;
+  height: 39px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 17.4px;
+  font-weight: 300;
+  line-height: 2.1;
+  letter-spacing: 1.74px;
+  text-transform: uppercase;
+}
+
+.product-categorie .main-container .content {
+  position: absolute;
+  bottom: 22px;
+  transform: translate(-50%);
+  left: 50%;
+}
+
+.product-categorie {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.divider-img {
+  margin: 36px 0px;
+}
+
+.home-container-main .head {
+  width: 100%;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+.home-container-main .head .title {
+  display: inline-block;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 52px;
+  font-weight: 300;
+  color: #000;
+  line-height: 0.84;
+}
+
+.home-container-main .head .sub-title {
+  display: inline-block;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 26px;
+  font-weight: 300;
+  color: #000;
+  line-height: 1.46;
+  margin-top: 10px;
+}
+
+.home-container-main .essintail-container .content {
+  float: left;
+
+  width: 100%;
+  margin-top: 16px;
+  text-align: center;
+}
+
+.home-container-main .essintail-container .content .title {
+  display: inline-block;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  letter-spacing: 0.75px;
+  color: #000;
+}
+
+.home-container-main .essintail-container img {
+  width: 100%;
+}
+
+.home-container-main .essintail-container .content .sub-title {
+  display: inline-block;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 0.45px;
+  color: #000;
+}
+
+.home-container-main .essintail-container .content .shop-now {
+  display: inline-block;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 1.75px;
+  color: #8d6340;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.home-container-main .essintail-container .img-con {
+  width: 99%;
+}
+
+.home-container-main .essintail-container>.img-con:last-child {
+  width: 100%;
+}
+
+.slider-container .content {
+  width: 100%;
+  margin-top: 33px;
+}
+
+.slider-container .content .head {
+  float: left;
+  width: calc(100% - 120px);
+  text-align: left;
+}
+
+.slider-container .content .head .title {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  letter-spacing: 0.75px;
+}
+
+.slider-container .content .head .text {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #000;
+  margin-top: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
+  letter-spacing: 0.45px;
+}
+
+.slider-container .shop-now {
+  float: left;
+  width: 120px;
+  height: 50px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #000;
+  text-align: center;
+  letter-spacing: 1.47px;
+  text-transform: uppercase;
+  line-height: 48px;
+  border: solid 1px #000;
+  border-radius: 0px;
+}
+
+.swiper-button-prev {
+  color: black !important;
+  font-weight: 900;
+  width: 31px !important;
+}
+
+.swiper-button-next {
+  color: black !important;
+  font-weight: 900;
+  width: 31px !important;
+}
+
+.sec-slider .content {
+  float: left;
+  width: 100%;
+  margin-top: 26px;
+  text-align: center;
+}
+
+.sec-slider .title {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.sec-slider .text {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  color: #000;
+  position: relative;
+  margin-top: 10px;
+  padding-bottom: 5px;
+}
+
+.sec-slider .content {
+  float: left;
+  width: 100%;
+  margin-top: 26px;
+  text-align: center;
+}
+
+.bottom-block {
+  float: left;
+  width: 100%;
+  margin-top: 70px;
+}
+
+.bottom-block .head {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+.bottom-block .head .title {
+  width: 100%;
+  display: inline-block;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 60px;
+  font-weight: 300;
+  color: #000;
+  line-height: 0.73;
+}
+
+.bottom-block .head .sub-title {
+  display: inline-block;
+  width: 741px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  color: #000;
+  line-height: 1.31;
+  margin-top: 35px;
+}
+
+.bottom-block .sign-in-block {
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+.bottom-block .sign-in-block label {
+  display: inline-block;
+  width: 805px;
+  margin-top: 47px;
+}
+
+.bottom-block .sign-in-block label .sign-up {
+  float: left;
+  width: calc(100% - 206px);
+  height: 50px;
+  border: solid 0.5px #99bca0;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 24px;
+  outline: none;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 0.96px;
+  color: #969494;
+  padding: 0 15px;
+}
+
+.bottom-block .sign-in-block label .btn {
+  float: left;
+  width: 180px;
+  height: 50px;
+  background-color: #99bca0;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 50px;
+  letter-spacing: 0.84px;
+  text-align: center;
+  color: #fff;
+  margin-left: 26px;
+  cursor: pointer;
+}
+
+.bottom-block .image-block {
+  float: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 63px;
+}
+
+.bottom-block .image-block .img {
+  float: left;
+  width: 285px;
+  height: 180px;
+}
+
+.bottom-block .image-block .img img {
+  float: left;
+  width: 100%;
+}
+
+.bottom-block .contact-us-block {
+  float: left;
+  width: 100%;
+}
+
+.bottom-block .contact-us-block .contact-slot {
+  float: left;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 77px;
+}
+
+.bottom-block .contact-us-block .contact-slot .col {
+  float: left;
+  width: 192px;
+  height: 100px;
+  border-right: solid 0.5px #99bca0;
+  padding-top: 15px;
+}
+
+.bottom-block .contact-us-block .contact-slot .col .action-btn {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: 2.1px;
+  text-align: center;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+.bottom-block .social-media-block {
+  float: left;
+  width: 100%;
+  margin-top: 78px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.bottom-block .social-media-block .social-icon {
+  float: left;
+  margin-right: 66px;
+}
+
+.bottom-block .social-media-block .social-icon .icon-pod.fb {
+  width: 19px;
+}
+
+.bottom-block .social-media-block .social-icon .icon-pod img {
+  float: left;
+  width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+  .product-card {
+    width: 210px;
+  }
+
+  .home-container-main .head .title {
+    font-size: 25px;
+  }
+
+  .home-container-main .head .sub-title {
+    font-size: 18px;
+  }
+
+  .home-container-main .bottom-block .head .sub-title {
+    font-size: 18px;
+    width: 560px;
+  }
+}
+
+@media only screen and (max-width: 560px) {
+  .bottom-block .sign-in-block label {
+    width: 326px !important;
+    margin-top: 40px !important;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .bottom-block .sign-in-block label .sign-up {
+    width: 80%;
+  }
+
+  .bottom-block .sign-in-block label .btn {
+    width: 296px;
+    margin-top: 14px;
+    margin-left: 0px;
+  }
+
+  .bottom-block .head .sub-title {
+    width: 308px !important;
+    font-size: 13px !important;
+  }
+
+  .home-container-main .essintail-container .content .title {
+    font-size: 18px;
+  }
+
+  .home-container-main .essintail-container .content .sub-title {
+    font-size: 14px;
+  }
+
+  .home-container-main .essintail-container .content .shop-now {
+    display: inline-block;
+    width: 100%;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 13px;
+  }
+
+  .slider-container .content .head .title {
+    font-size: 15px;
+  }
+
+  .slider-container .content .head .text {
+    font-size: 17px;
+  }
+
+  .slider-container .shop-now {
+    width: 99px;
+    height: 44px;
+    font-size: 11px;
+    line-height: 44px;
+  }
+}

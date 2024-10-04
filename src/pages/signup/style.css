@@ -1,0 +1,45 @@
+.signup-form .header {
+  width: 100%;
+  color: #231f20;
+  padding-bottom: 5px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #ededed;
+}
+
+.signup-form .content .title {
+  width: 100%;
+  color: #000;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+  padding-top: 15px;
+  text-transform: capitalize;
+}
+
+.signup-form .content .text {
+  width: 100%;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.signup-form .sign-up-form {
+  padding-right: 100px;
+  border-right: 1px solid #d1d1d1;
+}
+
+.signup-form .ant-form {
+  width: 100%;
+}
+
+.signup-form .login-up-form {
+  padding-left: 100px;
+}

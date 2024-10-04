@@ -1,0 +1,943 @@
+.Account-navigation .text-block {
+  width: 100%;
+}
+
+.Account-navigation .text-block .heading {
+  width: 100%;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  margin-bottom: 5px;
+}
+
+.Account-navigation .text-block .list-block {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.Account-navigation .text-block .list-block ul {
+  width: 100%;
+}
+
+.Account-navigation .text-block .list-block ul li {
+  width: 100%;
+  padding: 4px 0;
+}
+
+.Account-navigation .text-block .list-block ul li a {
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+/* ************************************************************* */
+
+.Account-info .right-block {
+  width: 74%;
+}
+
+.Account-info .right-block .ogaan-content {
+  width: 100%;
+}
+
+.Account-info .right-block .ogaan-content .data-block {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  padding: 0 20px 10px;
+}
+
+.Account-info .right-block .ogaan-content .data-block .title {
+  width: 100%;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700 !important;
+  letter-spacing: 0.5px;
+}
+
+.Account-info .right-block .ogaan-content .data-block .sub-text {
+  width: 100%;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  margin-top: 2px;
+  line-height: 1.5;
+}
+
+.Account-info .right-block .ogaan-content .contact-block {
+  width: 100%;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  padding: 10px 20px;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .heading {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .heading .head {
+  color: #000;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .heading .edit-text {
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .content {
+  width: 100%;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .content .contact-text {
+  width: 100%;
+  margin-top: 3px;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .content .contact-email {
+  width: 100%;
+  margin-top: 3px;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .content .manage-address .text {
+  float: left;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .content .manage-address .manage-text {
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  padding-left: 20px;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .content .manage-address {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.right-block .ogaan-content .contact-block .contact-content .content .set-billing-text {
+  width: 100%;
+  margin-top: 3px;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.right-block .ogaan-content .contact-block .contact-content .content .set-billing-text {
+  width: 100%;
+  margin-top: 3px;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .heading {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .heading .head {
+  color: #000;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .heading .edit-text {
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-info .right-block .ogaan-content .contact-block .contact-content .heading .edit-text:hover {
+  color: #000;
+  font-weight: 700;
+}
+
+.Account-user-details .right-block {
+  width: 100%;
+}
+
+.Account-user-details .right-block .ogaan-content {
+  float: left;
+  width: 100%;
+}
+
+.Account-user-details .right-block .ogaan-content .data-block {
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.Account-user-details .right-block .ogaan-content .data-block .title {
+  float: left;
+  width: 100%;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block {
+  float: left;
+  width: 100%;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content {
+  float: left;
+  width: 100%;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data {
+  float: left;
+  width: 100%;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .heading {
+  float: left;
+  width: 100%;
+  color: #000;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field {
+  float: left;
+  width: 100%;
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left {
+  float: left;
+  width: 150px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right {
+  float: left;
+  width: calc(100% - 150px);
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left .text-field {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 2.5;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field {
+  float: left;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text.name-field {
+  width: 25%;
+  margin-right: 16px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select {
+  float: left;
+  width: 50px;
+  background-image: url(../../images/angle-down.svg);
+  background-repeat: no-repeat;
+  background-position: 85% 6px;
+  background-size: 10px;
+  margin-right: 15px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select select {
+  float: left;
+  width: 100%;
+  outline: none;
+  -webkit-appearance: none;
+  background: transparent;
+  padding: 4px;
+  height: 30px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select select option {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text.name-field {
+  width: 25%;
+  margin-right: 16px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text input {
+  float: left;
+  width: 100%;
+  padding: 4px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  outline: none;
+  letter-spacing: 0.5px;
+  height: 32px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text:nth-last-of-type(1) {
+  margin-right: 0;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text input {
+  float: left;
+  width: 100%;
+  padding: 4px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  height: 32px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text {
+  float: left;
+  width: 52%;
+  margin-right: 10px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text.name-field {
+  width: 25%;
+  margin-right: 16px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text {
+  float: left;
+  width: 52%;
+  margin-right: 10px;
+}
+
+.ogaan-content input {
+  border: 1px solid #919191;
+}
+
+.right-block .ogaan-content h2 {
+  font-weight: 500 !important;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons {
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons {
+  float: left;
+  display: flex;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .back-to-account {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: #231f20;
+  line-height: 2;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .back-to-account .double-back-arrow {
+  float: left;
+  width: 15px;
+  height: 18px;
+  background-repeat: no-repeat;
+  background-size: 10px;
+  margin-top: 6px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons {
+  float: left;
+  display: flex;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .save-block {
+  float: left;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .required {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: red;
+  line-height: 2.6;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .save-block .save-btn {
+  float: left;
+  width: 130px;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  padding: 6px 2px;
+  margin-right: 10px;
+  background: #78797c;
+  border: 1px solid #78797c;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  border-radius: 4px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-country select {
+  float: left;
+  width: 100%;
+  -webkit-appearance: none;
+  background: transparent;
+  padding: 4px;
+  outline: none;
+  height: 32px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-country select option {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-country {
+  float: left;
+  width: 52%;
+  background-image: url(../../images/angle-down.svg);
+  background-repeat: no-repeat;
+  background-position: 97% 6px;
+  background-size: 10px;
+}
+
+a.back-to-account:hover {
+  color: #000;
+  font-weight: 600 !important;
+}
+
+.user-order .right-block {
+  width: 100%;
+}
+
+.user-order .right-block .ogaan-content {
+  width: 100%;
+}
+
+.user-order .right-block .ogaan-content .data-block {
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.user-order .right-block .ogaan-content .order-block {
+  float: left;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.user-order .right-block .ogaan-content .order-block .order-content {
+  float: left;
+  width: 100%;
+}
+
+.user-order .right-block .ogaan-content .order-block .order-content .edit-buttons {
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-order .right-block .ogaan-content .order-block .order-content .edit-buttons .buttons {
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-order .right-block .ogaan-content .order-block .order-content .edit-buttons .buttons .back-to-account {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: #231f20;
+  line-height: 2;
+}
+
+.user-order .right-block .ogaan-content .order-block .order-content .edit-buttons .buttons .back-to-account .double-back-arrow {
+  float: left;
+  width: 15px;
+  height: 18px;
+  background-repeat: no-repeat;
+  background-size: 10px;
+  margin-top: 6px;
+}
+
+/* ******************************************************************************************************* */
+
+.user-address .right-block {
+  width: 100%;
+}
+
+.user-address .right-block .ogaan-content {
+  width: 100%;
+}
+
+.user-address .right-block .ogaan-content .data-block {
+  width: 100%;
+  padding-bottom: 10px;
+}
+
+.user-address .right-block .ogaan-content .data-block .title {
+  width: 100%;
+  color: #231f20;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.user-address .right-block .ogaan-content .edit-block {
+  width: 100%;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content {
+  width: 100%;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data {
+  width: 100%;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .heading {
+  float: left;
+  width: 100%;
+  color: #000;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field {
+  float: left;
+  width: 100%;
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left {
+  float: left;
+  width: 150px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right {
+  float: left;
+  width: calc(100% - 150px);
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left .text-field {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 2.2;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field {
+  float: left;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select {
+  float: left;
+  width: 50px;
+  background-image: url(../../images/angle-down.svg);
+  background-repeat: no-repeat;
+  background-position: 85% 6px;
+  background-size: 10px;
+  margin-right: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select select {
+  float: left;
+  width: 100%;
+  -webkit-appearance: none;
+  background: transparent;
+  padding: 4px;
+  height: 30px;
+  outline: none;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.user-address .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select select option {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text.name-field {
+  width: 25%;
+  margin-right: 16px;
+  float: left;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text input {
+  float: left;
+  width: 100%;
+  padding: 4px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  height: 32px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text:nth-last-of-type(1) {
+  margin-right: 0;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text input {
+  float: left;
+  width: 100%;
+  padding: 4px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  height: 32px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field {
+  float: left;
+  width: 100%;
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left {
+  float: left;
+  width: 150px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left .text-field {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 2.2;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right {
+  float: left;
+  width: calc(100% - 150px);
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text:nth-last-of-type(1) {
+  margin-right: 0;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text input {
+  float: left;
+  width: 100%;
+  padding: 4px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  height: 32px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data {
+  float: left;
+  width: 100%;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .heading {
+  float: left;
+  width: 100%;
+  color: #000;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 15px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left {
+  float: left;
+  width: 150px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-left .text-field {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 2.2;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right {
+  float: left;
+  width: calc(100% - 150px);
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-country {
+  float: left;
+  width: 52%;
+  background-image: url(../../images/angle-down.svg);
+  background-repeat: no-repeat;
+  background-position: 97% 6px;
+  background-size: 10px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-country select {
+  float: left;
+  width: 100%;
+  -webkit-appearance: none;
+  background: transparent;
+  padding: 4px;
+  outline: none;
+  height: 32px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-country select option {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .default-address {
+  float: left;
+  width: 100%;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .default-address .same-address {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .default-address .same-address {
+  float: left;
+  width: 100%;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-buttons {
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+  border-top: 1px solid #ccc;
+  padding-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons {
+  float: left;
+  display: flex;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .back-to-account {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  color: #231f20;
+  line-height: 2;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .back-to-account .double-back-arrow {
+  float: left;
+  width: 15px;
+  height: 18px;
+  background-image: url(../../images/angle-down.svg);
+  background-repeat: no-repeat;
+  background-size: 10px;
+  margin-top: 6px;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons {
+  float: left;
+  display: flex;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .save-block {
+  float: left;
+}
+
+.user-address .right-block .ogaan-content .edit-block .edit-content .edit-buttons .buttons .save-block .save-btn {
+  float: left;
+  width: 130px;
+  color: #fff;
+  text-align: center;
+  cursor: pointer;
+  padding: 6px 2px;
+  background: #78797c;
+  border: 1px solid #78797c;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  border-radius: 4px;
+}
+
+.user-address .right-block {
+  width: 100%;
+}
+
+
+@media only screen and (max-width: 768px) {
+  .Account-info .right-block {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .Account-info .right-block .ogaan-content .data-block .sub-text {
+    font-size: 11px;
+  }
+
+  .Account-info .right-block .ogaan-content .contact-block .contact-content .heading .head {
+    font-size: 11px;
+  }
+
+  .Account-info .right-block .ogaan-content .contact-block .contact-content .content .contact-text {
+    font-size: 12px;
+  }
+
+}
+
+@media only screen and (max-width: 425px) {
+  .Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field {
+    float: left;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select {
+    width: 132px;
+  }
+
+  .Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text.name-field {
+    width: 146%;
+    margin-bottom: 16px;
+  }
+
+  .Account-user-details .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text {
+    width: 147%;
+  }
+
+  .user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field {
+    float: left;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .select-field .select {
+    width: 132px;
+  }
+
+  .user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text.name-field {
+    width: 146%;
+    margin-bottom: 16px;
+  }
+
+  .user-address .right-block .ogaan-content .edit-block .edit-content .edit-data .edit-field .field-right .edit-text {
+    width: 147%;
+  }
+}
